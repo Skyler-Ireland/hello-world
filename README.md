@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Skyler Ireland, an aspiring software developer. I am excited to start using GitHub!
